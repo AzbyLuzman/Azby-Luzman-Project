@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monkey
+  - Box
+  - Enemy
+  - BlueEnemyBody
+  - RedEnemyBody
+  - YellowEnemyBody
+  - PlayerBody
+  - Book
+  - AttackBook
+  - Laser
+  - FireBall
+  - Chair
+  - Desk
+  - BossEnemy
+  - BossEnemyBody
+  - BlueEnemyBody2
+  - RedEnemyBody2
+  - YellowEnemyBody2
+  - BossDoll
+  - BossEarLeft
+  - BossEarRight
+  - Wall
+  - NormalGhost
+  - DonyoriGhost
+  - OrangeDoll
+  - PurpleDoll
+  - BlueDoll
+  - GreenDoll
+  - RedDoll
+  - YellowDoll
+  - OrangeDoll2
+  - PurpleDoll2
+  - BlueDoll2
+  - GreenDoll2
+  - RedDoll2
+  - YellowDoll2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Stages
+  - Synthesis
+  - Enemy
+  - Disappear
+  - Book
+  - PlayerTrigger
+  - FireBall
+  - Furniture
+  - Bookstand
+  - Chair
+  - Desk
+  - BossEnemy
+  - SeeThrough
+  - UpStages
+  - bossEar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

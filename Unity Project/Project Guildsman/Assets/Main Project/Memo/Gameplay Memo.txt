@@ -1,0 +1,104 @@
+
+Gameplay Memo
+
+					Type of Attack :	Description
+
+	# Damage Type
+
+Bleed :
+		Depletes target HP
+
+Exhaust :
+		Depletes target Stamina
+
+Stun :
+		Two levels of stun
+		Gradually decrease over time
+		First level, normal stun will triggers execution when parried or break brace
+		Next level, critical stun will triggers fatal execution when threshold reached
+
+	# Basic
+
+Light :
+		Fast attack
+		Low stamina usage
+		Low stun buildup
+
+Heavy : 
+		Slow attack
+		Average stamina usage
+		Average stun buildup
+		
+		Cannot be interrupted by lights?
+
+
+	# Variant
+
+Charge :
+		Noticeable Effect
+		Slow ~ Very slow Attack
+		High stamina usage
+		Low stun build up
+		Break brace
+		Cannot be parried
+
+Bash	:
+		Only deal stun damage
+		Cannot be parried
+
+Counter :
+		On attack startup
+		Depletes user's stamina on impact
+
+Superarmor :
+		Cannot be interrupted by attacks
+		Less bleed damage to the user
+
+Undodgeable :
+		Noticeable Effect
+		Always hit target if within reach
+
+Throw :
+		Noticeable Effect
+		Push back opponent
+		Break brace
+		High stamina usage
+		Drain stamina
+
+Backstab :
+		Accessible for some jobs
+		Stay behind enemy line of sight to triggers a quick execution
+
+Execution :
+		When stun builds up reach a certain threshold
+		Triggered when threshold reached, can trigger again everytime parry or brace break
+		First level, normal stun : Guaranteed hit on first attack, quick time event on next one
+		Next level, critical stun : Guaranteed hit on any attack, always kill enemy on critical health
+
+		Friendly party may join party member in doing the execution, resulting in guaranteed attack even on first level of stun
+
+
+
+
+					Type of Defense :	Description
+
+Brace :
+		On hold brace button
+		Simple block
+		Regenerate stamina
+
+Parry :
+		On brace startup
+		Deflect Attack
+		Light Parry, low stamina usage
+		Heavy Parry, average stamina usage
+
+Dodge :
+		Small iframe 
+		Average stamina usage
+
+Backroll : 
+		Long iframe
+		Very high stamina usage
+		
+		

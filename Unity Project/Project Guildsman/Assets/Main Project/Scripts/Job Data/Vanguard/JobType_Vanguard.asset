@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560459bfd1aa70f42918c39e43b86576, type: 3}
+  m_Name: JobType_Vanguard
+  m_EditorClassIdentifier: 
+  jobName: Vanguard
+  LightAttack:
+  - Vanguard_Light1
+  - Vanguard_Light2
+  - Vanguard_Light3
+  - Vanguard_Light4
+  LightStartTime:
+  - 0
+  - 0
+  - 0
+  - 0
+  LightDuration:
+  - 0.4
+  - 0.1
+  - 0.4
+  - 2.8
+  LightSpeedType: 00010100
+  LightStats:
+  - {x: 10, y: 10, z: 10}
+  - {x: 10, y: 10, z: 10}
+  - {x: 10, y: 10, z: 10}
+  - {x: 10, y: 50, z: 10}
+  HeavyAttack:
+  - Vanguard_Heavy1
+  - Vanguard_Heavy2
+  - Vanguard_Heavy3
+  HeavyStartTime:
+  - 0.35
+  - 0
+  - 0.6
+  HeavyDuration:
+  - 0.5
+  - 0.5
+  - 0.8
+  HeavySpeedType: 010001
+  HeavyStats:
+  - {x: 15, y: 15, z: 15}
+  - {x: 15, y: 10, z: 15}
+  - {x: 15, y: 40, z: 15}
+  SpecialAttack:
+  - Vanguard_Special_Attack
+  SpecialStartTime:
+  - 0
+  SpecialDuration:
+  - 1
+  SpecialSpeedType: 01
+  SpecialStats:
+  - {x: 20, y: 25, z: 20}
+  AttackOpener: LH
+  Execution:
+  - Vanguard_Execute
+  ExecutionStartTime:
+  - 0.5
+  ExecutionDuration:
+  - 0.5
+  ExecutionSpeedType: 01

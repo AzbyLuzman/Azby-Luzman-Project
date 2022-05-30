@@ -1,0 +1,207 @@
+
+Job Characteristic
+==============================================================================================================================
+
+1.
+				//Code : Vanguard //
+
+			Weapon : Sword and Shield
+
+Description :	~ SnS Master Race ~
+
+
+			Speciality :
+
+All rounder :
+				<Shield Property>
+				Enemy's light attack won't drain stamina during brace
+				Light parry will consume no stamina
+				Heavy parry will consume low stamina
+				
+				<Vanguard>
+				Normal execution always work with lesser damage if failed QTE
+				...
+
+Vanguard Stance : 
+				Perform roundhouse slash during combo, transition into stance
+				More access to counter and bash attacks
+				...
+
+
+==============================================================================================================================
+
+2.
+				//Code : Warrior //
+
+			Weapon : Two-handed Greatsword
+
+Description :	Guts from "Berserk"
+
+			Speciality :
+
+Heavy Attack Mastery :
+				Heavy and charged attacks cost less stamina
+				...
+
+Warrior Stance : 
+				More access to charged and superarmor attacks
+				...
+
+
+==============================================================================================================================
+
+3.
+				//Code : Barbarian //
+
+			Weapon : One-handed Waraxe
+
+Description :	That less armored fella u can see rampaging around
+
+			Speciality :
+
+Stun Mastery :
+				Light attacks have higher stun buildup	
+				Execution leads into grapple
+				...
+
+Barbarian Stance : 
+				More access to bash and superarmor attacks
+				...
+
+
+==============================================================================================================================
+
+
+4.
+				//Code : Rogue //
+
+			Weapon : Daggers
+
+Description :	edgy
+
+			Speciality :
+
+Sleight of Hand :
+				Backstab available	
+				Normal execution leads into backstab
+				...
+
+Assassin Stance : 
+				Throw items on quick tap during combo
+				More backstab / tricks options
+				...
+
+
+==============================================================================================================================
+
+
+5.
+				//Code : Crusader //
+
+			Weapon : Two-handed Longsword
+
+Description :	Deus Vult, medieval guy
+
+			Speciality :
+
+Combat Mastery :
+				Attacks cost less stamina
+				...
+
+Swordmaster Stance : 
+				Enemy attacks doesnt deplete user's stamina on impact during counter
+				More access to counter attacks
+				...
+
+
+==============================================================================================================================
+
+
+6.
+				//Code : Samurai //
+
+			Weapon : Two-handed Katana
+
+Description :	Every Longsword user
+
+			Speciality :
+
+Swift Warrior :
+				Light attack cost less stamina
+				Dodge-attack available
+				...
+
+Samurai Stance : 
+				Enter Iai stance, gives iframe on startup attacks
+				...
+
+
+==============================================================================================================================
+
+
+7.
+				//Code : Juggernaut //
+
+			Weapon : Heavy Shield and Warmace or flail?
+
+Description :	LOTR Witch King, but with shield
+
+			Speciality :
+
+Absolute Block :
+				<Shield Property>
+				Enemy's light attack won't drain stamina during brace
+				Light parry will consume no stamina
+				Heavy parry will consume low stamina
+				
+				<Juggernaut>
+				Can parry charged and bash attacks
+				Dodge will consume more stamina?
+				...
+
+Juggernaut Stance : 
+				More access to superarmor and counter attacks
+				...
+
+
+==============================================================================================================================
+
+
+8.
+				//Code : Fencer //
+
+			Weapon : One-handed Rapier or Sabre?
+
+Description : Zorro
+
+			Speciality :
+
+Light Attack Mastery :
+				Light attacks cost less stamina
+				Light attacks are undodgeable
+				...
+
+Fencer Stance : 
+				Iframes on stance startup
+				More access to multiple attacks
+				...
+
+==============================================================================================================================
+
+
+9.
+				//  //
+
+			Weapon : 
+
+Description :
+
+			Speciality :
+
+ :
+				xxx
+				...
+
+ Stance : 
+				xxx
+				...

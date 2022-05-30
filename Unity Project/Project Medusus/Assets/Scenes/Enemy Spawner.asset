@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48326e4af0931c042b50b72d3df3ef07, type: 3}
+  m_Name: Enemy Spawner
+  m_EditorClassIdentifier: 
+  previousSceneName:
+  - MainStreetIntroScene
+  - MainStreetScene
+  - ClimbCutscene
+  currentSceneName:
+  - MainStreetScene
+  - StartScene
+  - RooftopScene
+  spawnPoint:
+  - {x: -300, y: -38.9, z: 0}
+  - {x: 2100, y: 1050, z: 0}
+  - {x: -250, y: 25, z: 0}
+  spawnScale:
+  - {x: -0.25, y: 0.25, z: 1}
+  - {x: -0.6, y: 0.6, z: 1}
+  - {x: -0.4, y: 0.4, z: 1}
+  offSet:
+  - {x: 140, y: 10, z: 0}
+  - {x: 300, y: -50, z: 0}
+  - {x: 200, y: 100, z: 0}
+  speed:
+  - 50
+  - 125
+  - 50
